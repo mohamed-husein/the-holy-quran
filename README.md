@@ -9,7 +9,7 @@ It’s an Islamic application that contains quran, with Surah detail view for Mu
 - Bloc Architecture pattern
 - flutter bloc Statemangement
 - quran arabic and english
-- get quran and juzs
+- get quran and juzz
 - get surahs details
 - set last read ayah
 - Bookmark
